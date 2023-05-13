@@ -1,8 +1,6 @@
 # Project 6
 
-## Original Output Image
 
-![Original Output Image](./original%20output%20image.png)
 
 ## Task 1: Achieve the following Output using JavaScript DOM Manipulation
 

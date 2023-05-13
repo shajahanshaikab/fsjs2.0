@@ -1,8 +1,6 @@
 # Project 7
 
-## Original Output Image
 
-![Original Output Image](./original%20output%20image.png)
 
 ![Task 1 Image](./ass7.1-before.png)
 
